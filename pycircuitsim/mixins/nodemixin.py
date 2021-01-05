@@ -1,0 +1,2 @@
+class NodeMixin:
+    name: str
